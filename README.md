@@ -1,4 +1,4 @@
-# Load-iris dataset 
+# Iris dataset 
 
 The iris dataset contains the following data- 
 
